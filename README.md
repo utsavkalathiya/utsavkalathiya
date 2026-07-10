@@ -1,6 +1,6 @@
 # Hi, I'm Utsav Kalathiya 👋
 
-DevOps Engineer with 3+ years of experience designing, automating, and maintaining scalable cloud infrastructure. I build reliable, self-healing systems using AWS, Kubernetes, and Terraform — and I'm always looking for ways to make deployments faster and incidents shorter.
+DevOps Engineer with 2+ years of experience designing, automating, and maintaining scalable cloud infrastructure. I build reliable, self-healing systems using AWS, Kubernetes, and Terraform — and I'm always looking for ways to make deployments faster and incidents shorter.
 
 - 🔭 Currently working as a **DevOps Engineer**, managing AWS production environments and Kubernetes (EKS) clusters
 - 🌱 Deepening my expertise in observability, FinOps, and AI-assisted infrastructure automation
